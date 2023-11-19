@@ -1,0 +1,64 @@
+.btn-danger{
+    background-color: #6b1f26;
+}
+.behold-text{
+    font-family: "Archivo Regular", Sans-serif;
+    font-size: 18px;
+    line-height: 32px;
+    letter-spacing: 2px;
+    color: #CBB12D;
+}
+
+.heading-text{
+    font-family: 'Domine', serif;
+  
+    color: #FFFFFF;
+    font-size: 48px;
+    font-style: italic;
+    letter-spacing: 2px;
+}
+
+.heading2-text{
+    font-family: 'Domine', serif;
+   
+    color: #FFFFFF;
+    
+    font-size: 55px;
+    letter-spacing: 2px;
+}
+
+.heading3-text{
+    font-family: 'Domine', serif;
+  
+    color: #b61414;
+    font-size: 48px;
+    
+    letter-spacing: 5px;
+}
+
+.heading4-text{
+    font-family: 'Domine', serif;
+  
+    color: #FFFFFF;
+    font-size: 18px;
+    font-style: italic;
+    letter-spacing: 4px;
+}
+
+.heading5-text{
+    font-family: 'Domine', serif;
+  
+    color: #FFFFFF;
+    font-size: 28px;
+    
+    letter-spacing: 5px;
+}
+
+.behold2-text{
+    font-family: "Archivo Regular", Sans-serif;
+    font-size: 28px;
+    line-height: 32px;
+    letter-spacing: 2px;
+    font-style: italic;
+    color: #9c1e19;
+}
